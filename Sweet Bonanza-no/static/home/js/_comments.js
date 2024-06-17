@@ -5,19 +5,19 @@ const reviews_data = [
     img: "../../media/photos/comments/Samuel_Fry.png",
     name: "Davide Romano",
     comment:
-      "Thanks to the developers for this amazing game!!! I invested just $45 in the Plinko game and won $116,800 ✨💰😇",
+      "Det er fantastisk! Gratulerer med den store gevinsten! Det må føles utrolig å forvandle $45 til $116,800. Nyt premien din og feir ansvarlig! Hvis du har noen planer for gevinsten eller trenger råd om hvordan du skal håndtere den, er det bare å dele!",
   },
   {
     img: "../../media/photos/comments/comment2.png",
     name: "Chiara De Luca",
     comment:
-      "An absolute delight!!! 🤩 I'm thrilled with this casino. Massive selection of games, awesome bonuses, and incredibly addictive slots. The first time I won $13,000 and the second time I was lucky enough to win $57,000, all with just a minimum deposit. I recommend it to everyone! 🚀🚀🚀",
+      "En absolutt glede!!! 🤩 Jeg er begeistret for dette kasinoet. Et stort utvalg av spill, fantastiske bonuser og utrolig avhengighetsskapende spilleautomater. Første gang vant jeg $13,000 og andre gang var jeg heldig nok til å vinne $57,000, alt med bare et minimumsinnskudd. Jeg anbefaler det til alle! 🚀🚀🚀",
   },
   {
     img: "../../media/photos/comments/comment4.png",
     name: "Simone Giordano",
     comment:
-      "Thank you!!! 🔥🔥🔥 Thanks to you, I won $10,000 in just a few hours! I can't believe my eyes... Contact me, and I'll provide you with the video! 🎥💸",
+      "Tusen takk!!! 🔥🔥🔥 Takket være dere vant jeg $10,000 på bare noen få timer! Jeg kan ikke tro mine egne øyne... Kontakt meg, så skal jeg gi deg videoen! 🎥💸",
   },
 ];
 
